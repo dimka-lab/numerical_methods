@@ -11,12 +11,11 @@ def rectangle_method(a, b, n):
         xs.append(x)
     return [integral, ints, xs]
 
-def f(x):
-    return -2*x**2 + 3
-
-a = -1  # lower limit
-b = 2  # upper limit
-n = 30  # number of subintervals
-
-integral = rectangle_method(a, b, n)
-print("Approximate integral:", integral[0])
+if __name__ == '__main__':
+    def f(x):
+        return -2*x**2 + 3
+    a = -1  # lower limit
+    b = 2  # upper limit
+    n = 30  # number of subintervals
+    integral = rectangle_method(a, b, n)
+    print("Approximate integral (rectangle method):", integral[0])
