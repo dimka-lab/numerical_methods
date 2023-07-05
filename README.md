@@ -43,4 +43,6 @@ print(f'Difference between exact and approximate solutions equals {abs(exact_sol
  >>> Approximate integral: 28.331249999999958
  >>> Difference between exact and approximate solutions equals 0.002083333333374
 </pre>
+
+### to be continued in close times
 <!-- #endregion -->
