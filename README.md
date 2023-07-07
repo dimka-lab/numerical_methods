@@ -18,6 +18,13 @@ f = (2*x**2 - 3)
 display(integrate(f, (x, -1, 4)))
 ```
 $\frac{85}{3}$
+```python
+exact_solution = 85/3
+print(f"exact solution = {exact_solution}")
+```
+<pre>
+>>> exact solution = 28.333333333333332
+</pre>
 
 Now we will calculate it numerically by rectangle method with 10 rectangles:
 
