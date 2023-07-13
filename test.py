@@ -1,6 +1,7 @@
 import unittest
 import math
 from numerical_methods import rectangle_method, bisection
+
 def f(x):
     return -2*x**2 + 3
 print(rectangle_method(f, -1, 2, 10)[0])
