@@ -1,3 +1,7 @@
 *.pdf
-test*
 __pycache__
+build
+dist
+numerical_methods.egg-info
+test.py
+password.txt

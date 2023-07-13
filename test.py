@@ -12,6 +12,9 @@ class RectangleTest(unittest.TestCase):
     """
     Test rectangle method
     """
+    def setUp(self):
+        pass
+
     def test_one(self):
         """ Test one """
         result = rectangle_method(f, -1, 2, 10)[0]
