@@ -23,11 +23,8 @@ $\int (2x^2−3)dx = 2\int x^2 \mathrm{d}x − 3\int 1 \mathrm{d}x = \frac {2x^3
 ```python
 exact_solution = 85/3
 print(f"exact solution = {exact_solution}")
-```
-<pre>
 >>> exact solution = 28.333333333333332
-</pre>
-
+```
 Now we will calculate it numerically by rectangle method:
 
 $\displaystyle I = \int_{a}^b f(x) \mathrm dx \approx \sum_{i=0}^{n-1}f(x_i)(x_{i+1}-x_i)$
