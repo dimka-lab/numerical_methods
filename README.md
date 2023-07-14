@@ -2,10 +2,18 @@
 # Numerical methods
 Implementation of methods for solving mathematical problems in numerical form
 
+## Installation
+```bash
+pip install numerical-methods
+```
+[Github of project](https://github.com/dimka-lab/numerical_methods) 
+[Documentation]()
+[PyPI](https://pypi.org/project/numerical-methods/)
+
 ### Integrals
 Let's try calculate integral $\int_{-1}^{4} \! (2x^2-3) \, \mathrm{d}x = \frac {85} 3$
 
-The whole code avialable in [notebook](https://github.com/dimka-lab/numerical_methods/blob/main/examples_numerical_methods.ipynb) in this repo
+The whole notebook avialable in [notebook](https://github.com/dimka-lab/numerical_methods/blob/main/examples_numerical_methods.ipynb) in this repo
 
 At first, we will find analytical (exact) solution:
 ```bash
