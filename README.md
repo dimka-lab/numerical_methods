@@ -6,9 +6,11 @@ Implementation of methods for solving mathematical problems in numerical form
 ```bash
 pip install numerical-methods
 ```
-[Github of project](https://github.com/dimka-lab/numerical_methods) 
-[Documentation]()
-[PyPI](https://pypi.org/project/numerical-methods/)
+- [Github of project](https://github.com/dimka-lab/numerical_methods) 
+
+- [Documentation]()
+
+- [PyPI](https://pypi.org/project/numerical-methods/)
 
 ### Integrals
 Let's try calculate integral $\int_{-1}^{4} \! (2x^2-3) \, \mathrm{d}x = \frac {85} 3$
@@ -38,7 +40,7 @@ Now we will calculate it numerically by rectangle method with 10 rectangles:
 
 $I = \int_{a}^b f(x) \mathrm dx \approx \sum_{i=0}^{n-1}f(x_i)(x_{i+1}-x_i)$
 ```python
-from integrate import rectangle_method
+from numerical_methods import rectangle_method
 def f(x):
     return 2*x**2 - 3
 integral = rectangle_method(-1, 4, 10)
