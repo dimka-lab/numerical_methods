@@ -43,5 +43,10 @@ print(f'Difference between exact and approximate solutions equals {abs(exact_sol
  >>> Difference between exact and approximate solutions equals 0.002083333333374
 </pre>
 
-### to be continued in close times
+### Equations
+
+#### Bisection method
+
+
+#### to be continued in close times
 <!-- #endregion -->
