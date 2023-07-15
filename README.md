@@ -44,7 +44,7 @@ print(f'Difference between exact and approximate solutions equals {abs(exact_sol
 </pre>
 
 ### Equations
-
+Suppose we want to solve equation $x^3+x-1$ with precision $\varepsilon = 0.0001$ by bisection method.
 #### Bisection method
 
 
