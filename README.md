@@ -1,7 +1,7 @@
 <!-- #region -->
 # Numerical methods
 Implementation of methods for solving mathematical problems in numerical form
-
+Library for python
 ## Installation
 ```bash
 pip install numerical-methods
@@ -13,6 +13,11 @@ pip install numerical-methods
 - [PyPI](https://pypi.org/project/numerical-methods/)
 
 The whole notebook with examples avialable in [notebook](https://github.com/dimka-lab/numerical_methods/blob/main/examples_numerical_methods.ipynb) in this repo
+## Content
+-  [Integrals](#integrals)
+    -  [Rectangle method](#rectangle-method)
+-  [Numerical solution of nonlinear equations](#numerical-solution-of-nonlinear-equations)
+    -  [Bisection method](#bisection-method)
 
 ### Integrals
 Let's try calculate integral $\displaystyle \int_{-1}^{4}  (2x^2-3)  \mathrm{d}x = \frac {85} 3$
@@ -43,5 +48,10 @@ print(f'Difference between exact and approximate solutions equals {abs(exact_sol
  >>> Difference between exact and approximate solutions equals 0.002083333333374
 </pre>
 
-### to be continued in close times
+### Numerical solution of nonlinear equations
+Suppose we want to solve equation $x^3+x-1$ with precision $\varepsilon = 0.0001$ by bisection method.
+#### Bisection method
+
+
+#### to be continued in close times
 <!-- #endregion -->
