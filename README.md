@@ -1,7 +1,7 @@
 <!-- #region -->
 # Numerical methods
 Implementation of methods for solving mathematical problems in numerical form
-
+Library for python
 ## Installation
 ```bash
 pip install numerical-methods
