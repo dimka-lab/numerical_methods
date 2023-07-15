@@ -14,10 +14,10 @@ pip install numerical-methods
 
 The whole notebook with examples avialable in [notebook](https://github.com/dimka-lab/numerical_methods/blob/main/examples_numerical_methods.ipynb) in this repo
 ## Content
--  [Integrals](#Integrals)
-    -  [Rectangle method](#Rectangle-method)
--  [Numerical solution of nonlinear equations](#Numerical-solution-of-nonlinear-equations)
-    -  [Bisection method](#Bisection-method)
+-  [Integrals](#integrals)
+    -  [Rectangle method](#rectangle-method)
+-  [Numerical solution of nonlinear equations](#numerical-solution-of-nonlinear-equations)
+    -  [Bisection method](#bisection-method)
 
 ### Integrals
 Let's try calculate integral $\displaystyle \int_{-1}^{4}  (2x^2-3)  \mathrm{d}x = \frac {85} 3$
