@@ -56,3 +56,11 @@ Suppose we want to solve equation $x^3+x-1$ with precision $\varepsilon = 0.0001
 
 #### to be continued in close times
 <!-- #endregion -->
+
+#### References
+[1] Численные методы. Примеры и задачи. Учебно-методическое пособие
+по курсам «Информатика» и «Вычислительная математика». / Сост.:
+Ф.Г.Ахмадиев, Ф.Г.Габбасов, Л.Б.Ермолаева, И.В.Маланичев. Казань:
+КГАСУ, 2017. – 107 с.
+[2] Newton's method - URL: https://en.wikipedia.org/wiki/Newton%27s_method
+[3] 
