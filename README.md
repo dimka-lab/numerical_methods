@@ -91,7 +91,7 @@ actual errors < desired bound for the error -->> solution found: x =
 #### to be continued in close times
 <!-- #endregion -->
 
-#### References
+### References
 [1] Численные методы. Примеры и задачи. Учебно-методическое пособие
 по курсам «Информатика» и «Вычислительная математика». / Сост.:
 Ф.Г.Ахмадиев, Ф.Г.Габбасов, Л.Б.Ермолаева, И.В.Маланичев. Казань:
