@@ -66,6 +66,7 @@ def func(x):
 x = bisection(func, 0, 1, 0.00001, trace=True)
 print(x)
 ```
+<pre>
 m = 0.5000000, [a, b] = [0.5000000, 1.0000000], h = 0.5000000 > 0.0000100 = e
 m = 0.7500000, [a, b] = [0.5000000, 0.7500000], h = 0.2500000 > 0.0000100 = e
 m = 0.6250000, [a, b] = [0.6250000, 0.7500000], h = 0.1250000 > 0.0000100 = e
@@ -86,7 +87,7 @@ x = 0.6823348999023438, [a, b] = [0.6823272705078125, 0.6823348999023438], h = 7
 
 actual errors < desired bound for the error -->> solution found: x =
 0.6823348999023438
-
+</pre>
 #### to be continued in close times
 <!-- #endregion -->
 
@@ -95,5 +96,7 @@ actual errors < desired bound for the error -->> solution found: x =
 по курсам «Информатика» и «Вычислительная математика». / Сост.:
 Ф.Г.Ахмадиев, Ф.Г.Габбасов, Л.Б.Ермолаева, И.В.Маланичев. Казань:
 КГАСУ, 2017. – 107 с.
+
 [2] Newton's method - URL: https://en.wikipedia.org/wiki/Newton%27s_method
+
 [3] 
