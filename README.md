@@ -97,6 +97,10 @@ actual errors < desired bound for the error -->> solution found: x =
 Ф.Г.Ахмадиев, Ф.Г.Габбасов, Л.Б.Ермолаева, И.В.Маланичев. Казань:
 КГАСУ, 2017. – 107 с.
 
-[2] Newton's method - URL: https://en.wikipedia.org/wiki/Newton%27s_method
+[2] Rectangle method - URL: https://encyclopedia2.thefreedictionary.com/Rectangle+method
 
-[3] 
+[3] Newton's method - URL: https://en.wikipedia.org/wiki/Newton%27s_method
+
+[4] Bisection method - URL: https://en.wikipedia.org/wiki/Bisection_method
+
+[5] to be continued... 
